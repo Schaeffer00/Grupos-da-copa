@@ -1,0 +1,184 @@
+@charset "UTF-8"
+
+br {
+    empty-cells: hide;
+}
+
+
+body {
+    background-image: url("effect.png");
+    background-size: 1050px;
+    
+    
+
+}
+
+
+.lateral1 {
+
+    position: absolute;
+width: 310px;
+height: 1000px;
+left: -10px;
+background: #5c001f;
+top: -10px;
+}
+
+
+.lateral2 {
+    position: absolute;
+    height: 730px;
+width: 256px;
+left: 1650px;
+height: 1000px;
+background: #5c001f;
+top: -10px;
+}
+
+
+.catar {
+    position: absolute;
+    left: 580px;
+    height: 300px;
+    width: 800px;
+}
+
+.gruposcopa {
+    position: absolute;
+    left: 860px;
+    top: 300px;
+    font-family: 'fonte';
+    color: rgb(88, 7, 20);
+    
+}
+
+.tabela {
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela2 {
+    position: absolute;
+    left: 730px;
+    top: 400px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela3 {
+    position: absolute;
+    left: 950px;
+    top: 400px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela4 {
+    position: absolute;
+    left: 1180px;
+    top: 400px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela5 {
+    position: absolute;
+    left: 500px;
+    top: 600px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela6 {
+    position: absolute;
+    left: 730px;
+    top: 600px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela7 {
+    position: absolute;
+    left: 950px;
+    top: 600px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.tabela8 {
+    position: absolute;
+    left: 1180px;
+    top: 600px;
+    width: 200px;
+    background-color: white;
+    font-family: 'fonte2';
+}
+
+.nome1 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome2 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome3 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome4 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome5 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome6 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome7 {
+    background-color: #820808;
+    color: white;
+}
+
+.nome8 {
+    background-color: #820808;
+    color: white;
+}
+
+@font-face {
+    font-family: 'fonte';
+    src: url("Road_Rage.otf");
+}
+
+@font-face {
+    font-family: 'fonte2';
+    src: url("Striker.otf");
+}
+
+.frame {
+    position: absolute;
+    left: 300px;
+    width: 1360px;
+    height: 990px;
+    top: 0px;
+    filter: grayscale(30%);
+}
